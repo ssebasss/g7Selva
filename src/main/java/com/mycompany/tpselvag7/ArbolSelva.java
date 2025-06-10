@@ -18,7 +18,7 @@ public class ArbolSelva {
 
         arbol[0] = "Te despertas en la selva. Buscar comida (A) o explorar (B)?";
         arbol[1] = "Decidis buscar comida. Seguir un rio (A) o buscar frutos (B)?";
-        arbol[2] = "Exploras la zona. Ves una cueva (A) o escuchas ruidos extraños (B)?";
+        arbol[2] = "Exploras la zona. Ves una cueva (A) o escuchas ruidos extranos (B)?";
         arbol[3] = "Seguis el rio. Te parece potable. Beber (A) o seguir corriente (B)?";
         arbol[4] = "Encontras frutos de colores. Comer (A) o guardarlos (B)?";
         arbol[5] = "Te acercas a la cueva. Entrar (A) o rodearla (B)?";
