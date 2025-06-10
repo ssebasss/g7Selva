@@ -9,7 +9,7 @@ package com.mycompany.tpselvag7;
  *
  * @author Admin
  */
-// Clase que contiene el árbol y sus métodos
+
 public class ArbolSelva {
     public String[] arbol;
 
